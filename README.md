@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# جاك - مطور ويب شامل ومصمم تجربة مستخدم 🚀
 
-## Getting Started
+موقع بورتفوليو شخصي مبني باستخدام Next.js 14 وTailwind CSS، يعرض مهاراتي ومشاريعي وخبراتي في مجال تطوير الويب وتصميم واجهات المستخدم.
 
-First, run the development server:
+## 🌟 المميزات
 
-```bash
+- ⚡ **أداء عالي** مع Next.js 14
+- 🎨 **تصميم عصري** مع Tailwind CSS
+- 📱 **تجاوب كامل** مع جميع الشاشات
+- 🌙 **الوضع الليلي** المدمج
+- 🇪🇬 **دعم كامل للغة العربية** و RTL
+- ✨ **تأثيرات حركية** جذابة
+- 📊 **شرائط مهارات** تفاعلية
+- 📝 **نموذج تواصل** متكامل
+
+## 💻 التقنيات المستخدمة
+
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- React Icons
+- Next Themes
+
+## 🚀 التشغيل محلياً
+
+1. انسخ المستودع:
+\`\`\`bash
+git clone https://github.com/eneryu/personal-portfolio.git
+\`\`\`
+
+2. ادخل للمجلد:
+\`\`\`bash
+cd personal-portfolio
+\`\`\`
+
+3. ثبت الاعتماديات:
+\`\`\`bash
+npm install
+\`\`\`
+
+4. شغل الخادم المحلي:
+\`\`\`bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+\`\`\`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. افتح [http://localhost:3000](http://localhost:3000) في متصفحك.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📱 الأقسام
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🏠 **الرئيسية**: نظرة عامة ومعلومات شخصية
+- 👨‍💻 **عني**: نبذة تفصيلية عن خبراتي
+- 🛠️ **المهارات**: عرض تفصيلي للمهارات التقنية
+- 🎯 **المشاريع**: معرض لأحدث وأهم المشاريع
+- 📬 **تواصل**: نموذج تواصل مع معلومات الاتصال
 
-## Learn More
+## 📞 تواصل معي
 
-To learn more about Next.js, take a look at the following resources:
+- 📧 البريد: jackezt4@gmail.com
+- 💼 لينكد إن: [LinkedIn](https://linkedin.com)
+- 🐱 جيت هب: [@eneryu](https://github.com/eneryu)
+- 📱 فيسبوك: [@jack2xii](https://facebook.com/jack2xii)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📄 الترخيص
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+هذا المشروع مرخص تحت [MIT License](LICENSE).
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+صنع بواسطة [جاك](https://github.com/eneryu) 🌟
